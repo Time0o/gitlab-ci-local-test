@@ -1,0 +1,4 @@
+downstream-pipeline:
+  trigger:
+    include:
+      - local: .gitlab-ci/downstream-pipeline.yml
